@@ -1,0 +1,18 @@
+# 虛擬環境
+venv/
+.venv/
+env/
+
+# SQLite 資料庫
+*.db
+*.sqlite3
+
+# 環境變數與 API 金鑰
+.env
+
+# Python 暫存檔
+__pycache__/
+*.pyc
+
+# VS Code 設定
+.vscode/
